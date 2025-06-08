@@ -30,14 +30,14 @@
 
 <p align="center">
   <a href="https://github.com/SwatiMeena">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=SwatiMeena&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=false" alt="Swati's stats"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=swati-meena&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=false" alt="Swati's stats"/>
   </a>
   <br/>
   <a href="https://github.com/SwatiMeena">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwatiMeena&theme=radical&hide_border=false" alt="Swati's streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=swati-meena&theme=radical&hide_border=false" alt="Swati's streak"/>
   </a>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwatiMeena&layout=compact&theme=radical&hide_border=false" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swati-meena&layout=compact&theme=radical&hide_border=false" alt="Top languages"/>
 </p>
 
 ---
